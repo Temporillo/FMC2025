@@ -1,3 +1,8 @@
 Programa de pós graduação de biometria
 
+<<<<<<< HEAD
 Pessoa 2 desenvolvendo
+=======
+
+"Estou trabalhando ainda"
+>>>>>>> desenvolvimento
